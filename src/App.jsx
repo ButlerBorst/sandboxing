@@ -4,7 +4,11 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  return <h1>First pull request</h1>;
+  return (
+    <div>
+      <h1>First pull request</h1>;<h2>Please help me bud</h2>;
+    </div>
+  );
 }
 
 export default App;
