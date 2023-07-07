@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1>First pull request</h1>;<h2>Please help me bud</h2>;
+      <h1>Changed</h1>;<h2>Please help me bud</h2>;
     </div>
   );
 }
